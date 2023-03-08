@@ -1,6 +1,14 @@
-# Flipkart Review Scrapper.
+# Flipkart Review Scraper.
 
-Build a FastAPI app to scrap user reviews and comments from a retail website and generates word-cloud with CSV data.
+Build a FastAPI web app to fetch product reviews and comments from Flipkart retail website and generates Word Cloud with the CSV data.
+
+```console
+pip install -r requirements.txt
+
+Setup and Configure MongoDB Database.
+
+python app.py
+```
 
 ## Authors
 
